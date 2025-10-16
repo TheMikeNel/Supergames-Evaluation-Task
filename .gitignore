@@ -2,6 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+*/PackageCache
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -73,3 +76,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Supergames/Library/PackageCache
+/Supergames/Library
+/Supergames/Library
+*.meta
